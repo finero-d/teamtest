@@ -5,5 +5,6 @@ public class gittest01 {
 		System.out.println("content");
 		System.out.println("content1");
 		System.out.println("branch");
+		System.out.println("revert");
 	}
 }
