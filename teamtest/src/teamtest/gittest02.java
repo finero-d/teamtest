@@ -5,5 +5,6 @@ public class gittest02 {
 		System.out.println("new branch test");
 		System.out.println("feeling good");
 		System.out.println("maaaaat");
+		System.out.println("spicy galbi");
 	}
 }
