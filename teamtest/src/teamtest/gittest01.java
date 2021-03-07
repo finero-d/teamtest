@@ -7,5 +7,6 @@ public class gittest01 {
 		System.out.println("branch");
 		System.out.println("revert");
 		//1
+		//2
 	}
 }
